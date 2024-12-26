@@ -1,0 +1,2 @@
+/home/zoli/C++/C++/Project2/main.cpp
+/home/zoli/C++/C++/Project1/main.cpp
